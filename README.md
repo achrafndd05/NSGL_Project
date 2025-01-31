@@ -20,7 +20,7 @@ The **Facebook100 dataset** contains anonymized friendship networks from 100 U.S
 - **Graduation Year**: Year of graduation.
 
 The dataset is available in the following GitHub repository:  
-[Facebook100 Dataset](https://classroom.github.com/a/jm4seIEs)
+[Facebook100 Dataset](https://partage.imt.fr/index.php/s/iyFWSQPJNmc7AC7)
 
 ---
 
