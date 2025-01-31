@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="logo_tsp.png" width="120">
+</p>
+
 # Network Science and Graph Learning Homework
 
 This repository contains the code and analysis for the **Network Science and Graph Learning** homework assignment. The project focuses on analyzing the **Facebook100 dataset**, which consists of friendship networks from 100 U.S. universities in 2005. The goal is to explore various network properties, perform community detection, and evaluate link prediction algorithms.
